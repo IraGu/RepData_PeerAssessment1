@@ -3,7 +3,6 @@ title: "PA1_template"
 author: "Ira Gu"
 date: "April 6, 2018"
 output: html_document
-keep_md: true 
 ---
 
 #Loading and preprocessing the data
